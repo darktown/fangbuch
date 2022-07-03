@@ -1,6 +1,3 @@
-<h1>hallo</h1>
-
-
 <?php
 
 use App\Kernel;
